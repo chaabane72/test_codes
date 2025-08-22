@@ -1,7 +1,7 @@
 /**
  * Blocs personnalisés pour contrôler une LED
  */
-//% color=#ff6600 icon="\uf0eb" weight=70
+//% color=#ff6600 icon="\uf0eb" weight=90
 namespace MaLED {
 
     /**
